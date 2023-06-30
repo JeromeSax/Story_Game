@@ -53,13 +53,28 @@ body {
     justify-content: space-between;
     margin-left: 2rem;
     width: 500px;
-    background-color: #bbff00;
+    background-color: #00ff00;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 5px 5px;
     display: flex;
     flex-direction: column;
     align-self: start;
+}
+
+/* Choice button design */
+.choice {
+    font-family: monospace;
+    font-size: 20px;
+    width: fit-content;
+    box-sizing: content-box;
+    margin-top: 1rem;
+    box-shadow: 0 0 2px 2px;
+}
+
+.choice:hover {
+    background: #e0275f;
+    box-shadow: 0 0 5px #e24869;
 }
 
 
