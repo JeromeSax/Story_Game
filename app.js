@@ -20,13 +20,14 @@ class villian {
 
 
 // Add choices for level 1
-
+const chapterOne = document.getElementById('level-1')
 
 
 
 
 
 // Add choices for level 2
+const chapterTwo = document.getElementById('level-2')
 
 
 
@@ -34,6 +35,7 @@ class villian {
 
 
 // Add choices for level 3
+const chapterThree = document.getElementById('level-3')
 
 
 
