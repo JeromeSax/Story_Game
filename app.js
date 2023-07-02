@@ -90,9 +90,7 @@ function makeChoice2(choice) {
 
 
 // Show the result from the choices made
-function showResult(result) {
 
-}
 
 
 
