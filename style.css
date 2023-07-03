@@ -10,7 +10,7 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(90, 0, 235);
+    /* background-color: rgb(90, 0, 235); */
     font-family: monospace;
     font-size: 20px;
 }
@@ -110,6 +110,23 @@ body {
     display: flex;
     flex-direction: column;
     align-self: end;
+}
+
+
+.messageBox-4 {
+    box-sizing: content-box;
+    justify-content: space-between;
+    margin-left: 2rem;
+    margin-bottom: 5rem;
+    margin-right: 2rem;
+    width: 300px;
+    background-color: hsl(9, 100%, 50%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
 }
 
 /* Choice button design */

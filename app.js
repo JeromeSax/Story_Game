@@ -1,18 +1,22 @@
 // Create player
-class player {
+class Player {
     constructor (name, job) {
         this.name = name;
         this.job = job;
     }
 }
 
+let player = new Player('Joe Schmoe, Indepent Artist');
+
 // Create Music Label
-class villian {
+class Villian {
     constructor (name, job) {
         this.name = name;
         this.job = job;
     }
 }
+
+let villian = new Villian('UrScrewed Music Group, Record Label');
 
 
 // creating the buttons
@@ -90,7 +94,12 @@ function makeChoice2(choice) {
 
 
 // Show the result from the choices made
-
+function makeChoice3(choice) {
+    if(choice.target === button10) {
+        const result10 = document.getElementById('message4');
+        result10.textContent = 'Every choice had a consequence. Signing with the record label has resulted in you becoming a rich but unrelatable artist. You have lost touch with reality and your fans have noticed. The music does not hit like it used to. If you choose to stay independent you managed to book your first tour with your favorite local artists and band members. Unfortunately you get fired from your job for going on the tour and even now while selling out venues you worry how you will pay next months rent without a job. Still you have never been happier. Perhaps you took a completely different route and choose to move back home. This resulted in you becoming bitter at your failed potential. You despise younger artists and run an overpriced jam session in your hometown. This is the closest you will ever come to musical freedom. '
+    }
+}
 
 
 
