@@ -1,7 +1,7 @@
 # Story_Game
 Technologies used: HTML, CSS, & JavaScript
 
-This is a short story game about the life and trials of and independent artist. There two paths and one alternate route the user can take in this story. The user is presented with scenarios followed by choices that give an outcome based on the choices made. There are 3 chapters with 9 choices and a conclusion section giving an overall outcome. 
+This is a short story game about the life and trials of an independent artist. There two paths and one alternate route the user can take in this story. The user is presented with scenarios followed by choices that give an outcome based on the choices made. There are 3 chapters with 9 choices and a conclusion section giving an overall outcome. 
 
 Each chapter covers a section of the players life. They could either choose to remain independent and face the hardships that come with that or take the path with the record label. Signing with a record label seems like the best option at first but upon reading the story the player will see that it comes with consequences.
 
