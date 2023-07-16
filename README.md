@@ -13,6 +13,6 @@ Chapter 3 is the final section. It expands upon the scenarios showing the player
 
 The conclusion section shows the overall outcome for each scenario.
 
-The game can be found on Git hub: https://github.com/JeromeSax/Story_Game
+The game can be found on Git hub: https://jeromesax.github.io/Story_Game/
 
 The problems that occured during the creation of this game were generating the choices for each scenario. More choices will be added and possibly more chapters to give different outcomes. Sound will also be added to the buttons when the player clicks on them. Locking the other buttons when the player clicks on a choice is also a feature that can be added.
